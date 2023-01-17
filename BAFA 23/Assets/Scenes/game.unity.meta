@@ -1,5 +1,9 @@
 fileFormatVersion: 2
-guid: 3611bed9c4826574698221b73486e2a1
+<<<<<<<< HEAD:BAFA 23/Assets/PlayFabEditorExtensions/Editor/Resources/MostRecentPackage.unitypackage.meta
+guid: 5e1ff920703e5b14386552963631fab5
+========
+guid: 693f4b5440c84f84898c7a3bbcc981a5
+>>>>>>>> 2b4230a8767c106416ba24c77dd13b5e8d879b69:BAFA 23/Assets/Scenes/Badminton Court.unity.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
