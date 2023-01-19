@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "732817757581",
+    "firebase_url": "https://bafa-d2d43-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bafa-d2d43",
+    "storage_bucket": "bafa-d2d43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732817757581:ios:226e9496fc14bd351b19c4",
+        "android_client_info": {
+          "package_name": "com.BAFA.BAFA"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732817757581-v2t3efb6v9l9otkk5d8hf5bm9hiomqno.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiHYAbV05XZKCldAmHoMnEkPO5gjka6ZY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
